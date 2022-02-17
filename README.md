@@ -10,8 +10,7 @@
   
   <a href="https://github.com/MatosLarissa">
     
-  <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=MatosLarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatosLarissa&layout=compact&langs_count=7&theme=radical"/>
+<img align="left"  height="180em" src="https://github-readme-stats.vercel.app/api?username=MatosLarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     
     
 
@@ -19,7 +18,8 @@
   
   
 <div style="display: inline_block"><br>
-<img align="center" alt="Larissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  <img align="center" alt="Larissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Larissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Larissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,6 +28,7 @@
   <img align="center" alt="Larissa-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Larissa-MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   <img align="center" alt="Larissa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
 </div>
   
   ##
