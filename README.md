@@ -1,4 +1,7 @@
-### Olá! Eu sou a Larissa Matos, desenvolvedora FullStack.
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Olá! Eu sou a Larissa Matos, desenvolvedora FullStack.
+</h1>
 
 <!-- - 🌱 Estudando Typescript
 - 😄 Pronomes: ela/dela -->
@@ -6,9 +9,12 @@
 <div align="center">
   
   <a href="https://github.com/MatosLarissa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatosLarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatosLarissa&layout=compact&langs_count=7&theme=radical"/>
+  <img height="47%" src="https://github-readme-stats.vercel.app/api?username=MatosLarissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    
+  <img height="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatosLarissa&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
+  
 <div style="display: inline_block"><br>
 <img align="center" alt="Larissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Larissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
