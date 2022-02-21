@@ -9,9 +9,9 @@
 
 <div align="center">
   
- 🌱 No momento estudando desenvolvimento <b>Na Labenu_</b>
+ 🌱 No momento estudando desenvolvimento <b>[Na Labenu_](https://www.labenu.com.br/quem-somos)</b>
 
- 📫 Entre em contato <a href = "mailto:larissamatost@outlook.com"><b>larissamatost@outlook.com </b></a>   
+ 📫 Entre em contato através do <a href = "mailto:larissamatost@outlook.com"><b>larissamatost@outlook.com </b></a>   
 
  📄 Dê uma olhada nas minhas experiências no <b> [linkedin](https://www.linkedin.com/in/larissa-matos-b5aa93127/)
 </div>
