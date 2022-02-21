@@ -51,6 +51,5 @@
 ![Snake animation](https://github.com/MatosLarissa/MatosLarissa/blob/output/github-contribution-grid-snake.svg)
   
 <div align='center'>
-  <p>👁️‍🗨️</p>
     <img src="https://komarev.com/ghpvc/?username=MatosLarissa&color=ae0bf1&style=flat-square" alt="LarissaMatos" />
 </div>  
