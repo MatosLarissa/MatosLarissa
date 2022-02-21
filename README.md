@@ -9,7 +9,7 @@
 
 <div align="center">
   
- 🌱 No momento estudando desenvolvimento <b>[Na Labenu_](https://www.labenu.com.br/quem-somos)</b>
+ 🎓 Formanda como Full Stack Web Developer pela <b>[Labenu_](https://www.labenu.com.br/quem-somos)</b>
 
  📫 Entre em contato através do <a href = "mailto:larissamatost@outlook.com"><b>larissamatost@outlook.com </b></a>   
 
@@ -47,4 +47,10 @@
   
   ##  
 
+  
 ![Snake animation](https://github.com/MatosLarissa/MatosLarissa/blob/output/github-contribution-grid-snake.svg)
+  
+<div align='center'>
+  <p>👁️‍🗨️</p>
+  <img src="https://komarev.com/ghpvc/?username=cesarhuber&color=blueviolet&label=profile+views" alt="MatosLarissa" />
+</div>  
