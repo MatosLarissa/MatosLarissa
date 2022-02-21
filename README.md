@@ -52,5 +52,5 @@
   
 <div align='center'>
   <p>👁️‍🗨️</p>
-    <img src="https://komarev.com/ghpvc/?username=MatosLarissa&color=800080" alt="LarissaMatos" />
+    <img src="https://komarev.com/ghpvc/?username=MatosLarissa&color=dd6387&style=flat-square" alt="LarissaMatos" />
 </div>  
