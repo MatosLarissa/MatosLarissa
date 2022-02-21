@@ -33,7 +33,7 @@
 <div align="center">
   
   <a href="https://github.com/MatosLarissa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatosLarissa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatosLarissa&show_icons=true&title_color=069bfb&hide_border=true&icon_color=00c647&text_color=0a0c10&bg_color=DEG,b00bf3,870cd0,440497,13056b&include_all_commits=true&count_private=true"/>
 <!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatosLarissa&layout=compact&langs_count=7&theme=dracula"/> -->
 
 </div>
@@ -52,5 +52,5 @@
   
 <div align='center'>
   <p>👁️‍🗨️</p>
-    <img src="https://komarev.com/ghpvc/?username=MatosLarissa&color=dd6387&style=flat-square" alt="LarissaMatos" />
+    <img src="https://komarev.com/ghpvc/?username=MatosLarissa&color=ae0bf1&style=flat-square" alt="LarissaMatos" />
 </div>  
