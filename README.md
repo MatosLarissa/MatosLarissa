@@ -21,12 +21,12 @@
   
 <div style="display: inline_block" align="center"><br>
   <h3>Linguagens e ferramentas</h3>
+      <img align="center" alt="Larissa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   	  <img align="center" alt="Larissa-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   	<img align="center" alt="Larissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   	<img align="center" alt="Larissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   	<img align="center" alt="Larissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   	<img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 	  <img align="center" alt="Larissa-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  	<img align="center" alt="Larissa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   	<img align="center" alt="Larissa-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   	<img align="center" alt="Larissa-MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
   	<img align="center" alt="Larissa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
