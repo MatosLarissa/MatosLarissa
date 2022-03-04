@@ -2,7 +2,7 @@
 
 <h1 align="center" color="069bfb">
 <!--   <img src="https://i.giphy.com/media/dB0lH3k3AE96259Exh/giphy.webp" width="60"> -->
-  <img src="https://media2.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif?cid=ecf05e47bsa2vvumi4osgtxszdi09kkya33ulz2l8w65b6wb&rid=giphy.gif&ct=s" width="29">
+  <img src="https://media2.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif?cid=ecf05e47bsa2vvumi4osgtxszdi09kkya33ulz2l8w65b6wb&rid=giphy.gif&ct=s" width="29"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
   <span color="red">Olá! Eu sou a Larissa Matos</span>
 </h1>
 <h3 align="center">
@@ -37,7 +37,7 @@
   
   <a href="https://github.com/MatosLarissa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatosLarissa&show_icons=true&title_color=069bfb&hide_border=true&icon_color=00c647&text_color=0a0c10&bg_color=DEG,b00bf3,870cd0,440497,13056b&include_all_commits=true&count_private=true"/>
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatosLarissa&layout=compact&langs_count=7&theme=dracula"/> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatosLarissa&layout=compact&langs_count=7&theme=dracula&title_color=069bfb&hide_border=true&icon_color=00c647&text_color=0a0c10&bg_color=DEG,b00bf3,870cd0,440497,13056b&include_all_commits=true&count_private=true""/>
 
 </div>
 <br />  
