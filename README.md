@@ -2,7 +2,7 @@
 
 <h1 align="center" color="069bfb">
 <!--   <img src="https://i.giphy.com/media/dB0lH3k3AE96259Exh/giphy.webp" width="60"> -->
-  <img src="https://media2.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif?cid=ecf05e47bsa2vvumi4osgtxszdi09kkya33ulz2l8w65b6wb&rid=giphy.gif&ct=s" width="29"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://media2.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif?cid=ecf05e47bsa2vvumi4osgtxszdi09kkya33ulz2l8w65b6wb&rid=giphy.gif&ct=s" width="29">
   <span color="red">Olá! Eu sou a Larissa Matos</span>
 </h1>
 <h3 align="center">
