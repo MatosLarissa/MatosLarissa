@@ -20,7 +20,7 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <h3>Linguagens e ferramentas</h3>
+  <h3>Languages and tools</h3>
       <img align="center" alt="Larissa-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    	  <img align="center" alt="Larissa-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   	<img align="center" alt="Larissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
