@@ -3,20 +3,20 @@
 <h1 align="center" color="069bfb">
 <!--   <img src="https://i.giphy.com/media/dB0lH3k3AE96259Exh/giphy.webp" width="60"> -->
   <img src="https://media2.giphy.com/media/TFZpl4btFODjSbwAKS/giphy.gif?cid=ecf05e47bsa2vvumi4osgtxszdi09kkya33ulz2l8w65b6wb&rid=giphy.gif&ct=s" width="29">
-  <span color="red">Olá! Eu sou a Larissa Matos</span>
+  <span color="red">Hello! I'm Larissa Matos</span>
 </h1>
 <h3 align="center">
-  Desenvolvedora FullStack de São Paulo, Brasil
+  FullStack Developer from São Paulo, Brazil
 </h3>
 <br />
 
 <div align="center">
   
- 🎓 Formanda como Full Stack Web Developer pela <b>[Labenu_](https://www.labenu.com.br/quem-somos)</b>
+ 🎓 Trainee as Full Stack Web Developer by <b>[Labenu_](https://www.labenu.com.br/quem-somos)</b>
 
- 📫 Entre em contato através do <a href = "mailto:larissamatost@outlook.com"><b>larissamatost@outlook.com </b></a>   
+ 📫 Get in touch at <a href = "mailto:larissamatost@outlook.com"><b>larissamatost@outlook.com </b></a>   
 
- 📄 Dê uma olhada nas minhas experiências no <b> [linkedin](https://www.linkedin.com/in/larissa-matos-b5aa93127/)
+ 📄 Take a look at my linkedin experiences <b> [linkedin](https://www.linkedin.com/in/larissa-matos-b5aa93127/)
 </div>
   
 <div style="display: inline_block" align="center"><br>
