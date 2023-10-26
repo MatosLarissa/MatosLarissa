@@ -12,8 +12,6 @@
 
 <div align="center">
   
- 🎓 Trainee as Full Stack Web Developer by <b>[Labenu_](https://www.labenu.com.br/quem-somos)</b>
-
  📫 Get in touch at <a href = "mailto:larissamatost@outlook.com"><b>larissamatost@outlook.com </b></a>   
 
  📄 Take a look at my linkedin experiences <b> [linkedin](https://www.linkedin.com/in/larissa-matos-b5aa93127/)
