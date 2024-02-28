@@ -19,34 +19,34 @@
   
 <div style="display: inline_block" align="center"><br>
   <h3>Languages and tools</h3>
-<a href="https://docs.oracle.com/en/java/" target="_blank" ">
+<a href="https://docs.oracle.com/en/java/">
   <img align="center" alt="Larissa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="center" alt="Larissa-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank">
+<a href="https://www.typescriptlang.org/docs/">
   <img align="center" alt="Larissa-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </a>
-<a href="https://www.python.org/doc/" target="_blank">
+<a href="https://www.python.org/doc/">
   <img align="center" alt="Larissa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </a>
-<a href="https://legacy.reactjs.org/docs/getting-started.html/" target="_blank">
+<a href="https://legacy.reactjs.org/docs/getting-started.html/">
   <img align="center" alt="Larissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </a>
-<a href="https://nextjs.org/docs/" target="_blank">
+<a href="https://nextjs.org/docs/">
   <img align="center" alt="Larissa-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </a>
-<a href="https://docs.nestjs.com/" target="_blank">
+<a href="https://docs.nestjs.com/">
   <img align="center" alt="Larissa-NestJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 </a>
-<a href="https://docs.spring.io/spring-framework/reference/index.html/" target="_blank">
+<a href="https://docs.spring.io/spring-framework/reference/index.html/">
   <img align="center" alt="Larissa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </a>
-<a href="https://flask.palletsprojects.com/en/" target="_blank">
+<a href="https://flask.palletsprojects.com/en/">
   <img align="center" alt="Larissa-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </a>
-<a href="https://docs.djangoproject.com/en/" target="_blank">
+<a href="https://docs.djangoproject.com/en/">
   <img align="center" alt="Larissa-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </a>
    
@@ -64,8 +64,8 @@
   
   
  <div align="center">  
-  <a href = "mailto:larissamatost@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matos-larissa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:larissamatost@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/in/matos-larissa/" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
   </div>
   
   ##  
